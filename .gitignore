@@ -1,0 +1,10 @@
+# Ignorar archivos y directorios generados por NetBeans y compilación
+build/
+nbproject/
+
+# Ignorar archivos compilados
+*.class
+
+# Ignorar otros archivos generados automáticamente
+target/
+*.iml
